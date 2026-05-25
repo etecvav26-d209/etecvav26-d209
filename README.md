@@ -21,7 +21,7 @@
 </a>
 
 <a href="https://github.com/PHrodrigues2112">
-<img src="https://img.shields.io/badge/PEDRO_HENRIQUE-ff4d4d?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/PEDRO_HENRIQUE-006F73?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 
