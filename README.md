@@ -2,6 +2,12 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
 </div>
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=6E7F99&center=true&vCenter=true&width=750&lines=Bem-vindo(a)+à+minha+conta!;Conta+criada+para+publicação+de+projetos+e+avaliação." alt="Typing SVG" />
+
+</div>
+
 ###
 
 <div align="left">
