@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=6E7F99&center=true&vCenter=true&width=750&lines=Bem-vindo(a)+à+minha+conta!;Conta+criada+para+publicação+de+projetos+e+avaliação." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=6E7F99&center=true&vCenter=true&width=750&lines=Bem-vindo(a)+à+nossa+conta!;Criada+para+publicação+de+projetos+e+avaliação." />
 </p>
 
 ###
