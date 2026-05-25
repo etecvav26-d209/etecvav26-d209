@@ -6,6 +6,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=6E7F99&center=true&vCenter=true&width=750&lines=Bem-vindo(a)+à+nossa+conta!;Criada+para+publicação+de+projetos+e+avaliação." />
 </p>
 
+<div align="center">
+
+<a href="https://github.com/lauraduartearruda">
+<img src="https://img.shields.io/badge/LAURA_DUARTE-ff4d4d?style=for-the-badge&logo=github&logoColor=pink">
+</a>
+
+
+</div>
+
+
 ###
 
 <div align="left">
