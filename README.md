@@ -13,7 +13,7 @@
 </a>
 
 <a href="https://github.com/nicolas-saraiva">
-<img src="https://img.shields.io/badge/NICOLAS_SARAIVA-ff4d4d?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/NICOLAS_SARAIVA-5E00D1?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://github.com/coraine001">
