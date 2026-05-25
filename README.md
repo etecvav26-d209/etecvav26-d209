@@ -9,7 +9,7 @@
 <div align="center">
 
 <a href="https://github.com/lauraduartearruda">
-<img src="https://img.shields.io/badge/LAURA_DUARTE-ff4d4d?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/LAURA_DUARTE-FF9CDC?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://github.com/nicolas-saraiva">
