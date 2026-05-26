@@ -19,7 +19,7 @@
 </a>
 
 <a href="https://github.com/coraine001">
-<img src="https://img.shields.io/badge/PEDRO_CORAINE-730000?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/PEDRO_CORAINE-c98af2?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://github.com/PHrodrigues2112">
